@@ -15,5 +15,5 @@ I'm a multi-skilled DevOps / Software Engineer and a PRINCE2 professional. I'm p
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osha80&langs_count=8&layout=compact&hide_border=true" alt="Osha80's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Osha80&show_icons=true&include_all_commits=true&hide_border=true" alt="Afiz's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osha80&langs_count=8&layout=compact&hide_border=true" alt="Osha80's GitHub stats" /> |
 | ------------- | ------------- |
